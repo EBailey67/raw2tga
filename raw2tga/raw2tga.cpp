@@ -1,4 +1,6 @@
 // raw2tga -- converts .raw format files to 24 bit uncompressed Targa files.
+// written by Eric D. Bailey
+// Copyright (c)2019, All Rights Reserved
 
 #include <iostream>
 #include <fstream>
